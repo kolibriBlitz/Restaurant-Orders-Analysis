@@ -1,4 +1,3 @@
-```SQL
 #View the menu_items table and write a query to find the number of items on the menu
 SELECT * FROM menu_items;
 select count(*) as total_items from menu_items;
@@ -27,7 +26,3 @@ select category as Cuisine, count(*) as '#_dishes', round(avg(price),2) as Avera
 from menu_items
 group by category
 order by Average_Price
-```
-```python
-import pandas as pd
-```
