@@ -27,10 +27,10 @@
 **Opportunity:** Offer more inexpensive Asian side dishes, or use edamame in bundled promos (e.g., “Buy an entrée, get edamame for $1”, "Buy 2 edamame, get 1 half off", etc.).
 
 **🍝🍣🌮🍔 Menu Popularity**
-“quip to be inserted later”
--The hamburger is the most-ordered item, followed closely by edamame.
--The top five dishes are all American or Asian cuisine, suggesting strong cross-cultural appeal.
--Italian cuisine ranks lower in frequency but higher in spend—suggesting it attracts higher-ticket customers.
+*“quip to be inserted later”*
+- The hamburger is the most-ordered item, followed closely by edamame.
+- The top five dishes are all American or Asian cuisine, suggesting strong cross-cultural appeal.
+- Italian cuisine ranks lower in frequency but higher in spend—suggesting it attracts higher-ticket customers.
 
 ***More to come!***
 
