@@ -20,7 +20,7 @@
 - Surprisingly **no spike** near Valentine’s Day, signaling a missed marketing opportunity (e.g., a prix fixe dinner, couples' event, etc.).
 
 **👇🏼 Low-End Orders**
--*“If a bug could accelerate fast enough, it could crack a windshield.”*
+- *“If a bug could accelerate fast enough, it could crack a windshield.”*
   - Edamame shows up often as a solo order—customers love it.
   - Suggests a segment of price-conscious or snack-focused buyers.
 
