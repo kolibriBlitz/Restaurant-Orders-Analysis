@@ -15,7 +15,7 @@
 
 ### Results and Insights
 **⏰Time-Based Trends**
-- * 🤑“We make money on payday.”*
+- *🤑“We make money on payday.”*
   - High-ticket orders cluster around a 2-hour window in the first, middle, and last weeks of each month—likely correlating with paydays.
 - Surprisingly **no spike** near Valentine’s Day, signaling a missed marketing opportunity (e.g., a prix fixe dinner, couples' event, etc.).
 
