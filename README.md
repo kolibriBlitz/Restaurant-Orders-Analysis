@@ -1,19 +1,19 @@
 # SQL_Projects
 ## Restaurant Orders
 
-###Project Goals
+### Project Goals
 -Practice SQL skills through hands-on, iterative querying.
 -Think like a business analyst by looking for patterns, spotting anomalies, and turning data into actionable strategies.
 -Advise a fictional restaurant owner on ways to **increase revenue** and **boost orders**.
 
-###Methodology
+### Methodology
 1. Getting to know you: Explored data to see what data exists and get a feel for possible paths of investigation.
 2. Bath time: Check data for anomalies and missing data to ensure accurate results.
 3. Introduced a time element: Analyzed order timestamps to identify revenue-driving periods.
 4. Investigated low-ticket orders: Looked at low-value purchases to see if they offered untapped opportunity.
 5. Observed popularity trends: Identified most-ordered dishes and cuisines to inform menu strategy.
 
-###Results and Insights
+### Results and Insights
 **⏰Time-Based Trends**
 * 🤑“We make money on payday.”*
 -High-ticket orders cluster around a 2-hour window in the first, middle, and last weeks of each month—likely correlating with paydays.
@@ -34,11 +34,11 @@
 
 ***More to come!***
 
-###Business Recommendations
+### Business Recommendations
 -💡 Payday Promotions: Launch timed specials around pay periods.
 -💡 Valentine's Day Campaign: Target high-spending customers with seasonal offerings.
 -💡 Leverage Low-Cost Favorites: Use edamame in combo deals or snack menus to increase order size.
 -💡 Expand Italian Offerings: Keep or grow upscale Italian dishes to appeal to higher-spend clientele.
   -More to come!
 
-###BONUS MALLET 🔨
+### BONUS MALLET 🔨
