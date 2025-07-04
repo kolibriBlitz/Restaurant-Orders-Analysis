@@ -23,4 +23,4 @@ The first set of questions in the Maven Analytics guided project.
 - [E.g., Needed to use `DISTINCT` to get unique counts]
 - [E.g., Originally forgot to exclude NULL item_ids]
 
-> 📝 See [`Maven_Part1.sql`](code/Maven_Part1.sql) for the full query set
+> 📝 See [`Maven_Part1.sql`](..code/Maven_Part1.sql) for the full query set
