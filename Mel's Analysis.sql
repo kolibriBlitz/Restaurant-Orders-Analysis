@@ -19,16 +19,22 @@ group by ord.order_id, order_date, time, cuisine
 order by ord.order_id, total_spend desc;
 
 #Look at lowest 10 orders
+/*after data cleaning, there are 137 rows with no item number so $0.00
+update query to exclude these entries*/
 select ord.order_id, sum(menu.price) as order_total, count(menu.menu_item_id) as num_items, menu.item_name as item 
 from order_details as ord
 join menu_items as menu on menu.menu_item_id = ord.item_id	
+where item_id<>0
 group by ord.order_id, item
 order by order_total asc
 limit 10;
 
 #Look at lowest 5 orders
+/*after data cleaning, there are 137 rows with no item number so $0.00
+update query to exclude these entries*/
 select ord.order_id, sum(menu.price) as order_total from order_details as ord
 join menu_items as menu on menu.menu_item_id = ord.item_id	
+where item_id<>0
 group by ord.order_id
 order by order_total asc
 limit 5;
@@ -41,8 +47,11 @@ group by dish, category
 order by num_orders desc
 limit 10;
 
-#What is the average price of each category
+#What is the average price of each category?
+/*After data cleaning, there is a category called 'Unknown' with 
+no price point. Exclude this from results.*/
 select category as Cuisine, round(avg(price),2) as Average_Price
 from menu_items
+where category <> 'Unknown'
 group by category
 order by Average_Price
