@@ -1,4 +1,4 @@
-# Exercise [#] – [Short Title or Theme]
+# Exercise 2 – [Short Title or Theme]
 
 ## Goals
 - [List specific learning or project goals for this exercise]
