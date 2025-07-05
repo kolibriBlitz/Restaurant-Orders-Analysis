@@ -1,4 +1,4 @@
-# Exercise 2 – [Short Title or Theme]
+# Once Upon a Time – We know *what* they're eating, but what about ***when***
 
 ## Goals
 - [List specific learning or project goals for this exercise]
@@ -23,4 +23,4 @@
 - [E.g., Needed to use `DISTINCT` to get unique counts]
 - [E.g., Originally forgot to exclude NULL item_ids]
 
-> 📝 See [`Maven_Part2.sql`](../Maven_Part2.sql) for the full query set
+> 📝 See [`Time_Analysis.sql`](../code/Time_Analysis.sql) for the full query set
