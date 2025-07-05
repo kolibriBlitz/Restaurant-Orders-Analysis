@@ -46,3 +46,6 @@
 - Add human dimension to schema with server data.
   - Do certain servers consistently have higher ticket orders? If so, why?
   - Do certain servers consistently sell over [threshold amount] of items? If so, why?
+- Add new element to menu_items table: dish time/serve time
+  - Labor and costs can be optimized if food is sold at certain times of day
+  - Added dimension provides further analysis opportunities to determine OKRs and measure KPIs  
