@@ -1,0 +1,11 @@
+Hello Data Dude,
+
+In reviewing the order data, I found several orders missing an item ID. 
+
+I've attached a list of those orders for your records.
+
+Please find out what item(s) were sold. Can you deliver a list of the items with item ID, item name, category and price as a .CSV to me by the end of the week please?
+
+Thanks,
+
+Melisande Fritzsche
