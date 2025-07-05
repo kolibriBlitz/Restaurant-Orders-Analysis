@@ -23,4 +23,4 @@
 - [E.g., Needed to use `DISTINCT` to get unique counts]
 - [E.g., Originally forgot to exclude NULL item_ids]
 
-> 📝 See [`Maven_Part2.sql`](../Maven_Part2.sql) for the full query set
+> 📝 See [`Maven_Part2.sql`](../code/Maven_Part2.sql) for the full query set
