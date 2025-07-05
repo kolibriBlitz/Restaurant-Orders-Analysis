@@ -33,7 +33,7 @@
 - The top five dishes are all American or Asian cuisine, suggesting strong cross-cultural appeal.
 - Italian cuisine ranks lower in frequency but higher in spend—suggesting it attracts higher-ticket customers.
 
-[***More to come!***](#BONUS_MALLET)
+[***More to come!***](#more)
 
 ### Business Recommendations
 - 💡 Payday Promotions: Launch timed specials around pay periods.
@@ -42,7 +42,7 @@
 - 💡 Expand Italian Offerings: Keep or grow upscale Italian dishes to appeal to higher-spend clientele.
 - 💡 Morning Changes: Cut costs by reducing menu offerings to only the most popular, reducing staff or opening after 11:30 AM. 
 
-### BONUS MALLET<a name="BONUS_MALLET"></a>
+### BONUS MALLET <a name="more"></a>
 - Add human dimension to schema with server data.
   - Do certain servers consistently have higher ticket orders? If so, why?
   - Do certain servers consistently sell over [threshold amount] of items? If so, why?
