@@ -7,11 +7,12 @@
 - Advise a fictional restaurant owner on ways to **increase revenue** and **boost orders**.
 
 ### Methodology
-1. Getting to know you: Explored data to see what data exists and get a feel for possible paths of investigation.
-2. Bath time: Check data for anomalies and missing data to ensure accurate results.
-3. Introduced a time element: Analyzed order timestamps to identify revenue-driving periods.
+1. Getting to know you: Studied database schema for table relationships, column names and column data types. Looked at a few rows of data in each table to get a feel for what is there. 
+2. Cleanliness is next to Godliness: Check data for anomalies and missing data to ensure accurate results.
+3. Investigated high-ticket orders: Looked at high-value purchase to see what is already driving revenue.
 4. Investigated low-ticket orders: Looked at low-value purchases to see if they offered untapped opportunity.
 5. Observed popularity trends: Identified most-ordered dishes and cuisines to inform menu strategy.
+6. Introduced a time element: Analyzed order timestamps to identify revenue-driving periods.
 
 ### Results and Insights
 **⏰Time-Based Trends**
@@ -32,13 +33,16 @@
 - The top five dishes are all American or Asian cuisine, suggesting strong cross-cultural appeal.
 - Italian cuisine ranks lower in frequency but higher in spend—suggesting it attracts higher-ticket customers.
 
-***More to come!***
+***More to come!***(#BONUS_MALLET)
 
 ### Business Recommendations
 - 💡 Payday Promotions: Launch timed specials around pay periods.
 - 💡 Valentine's Day Campaign: Target high-spending customers with seasonal offerings.
 - 💡 Leverage Low-Cost Favorites: Use edamame in combo deals or snack menus to increase order size.
 - 💡 Expand Italian Offerings: Keep or grow upscale Italian dishes to appeal to higher-spend clientele.
-  -More to come!
+- 💡 Morning Changes: Cut costs by reducing menu offerings to only the most popular, reducing staff or opening after 11:30 AM. 
 
-### BONUS MALLET
+### BONUS MALLET<a name="BONUS_MALLET"></a>
+- Add human dimension to schema with server data.
+  - Do certain servers consistently have higher ticket orders? If so, why?
+  - Do certain servers consistently sell over [threshold amount] of items? If so, why?
