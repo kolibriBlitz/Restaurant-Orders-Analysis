@@ -33,7 +33,7 @@
 - The top five dishes are all American or Asian cuisine, suggesting strong cross-cultural appeal.
 - Italian cuisine ranks lower in frequency but higher in spend—suggesting it attracts higher-ticket customers.
 
-***More to come!***(#BONUS_MALLET)
+[***More to come!***](#BONUS_MALLET)
 
 ### Business Recommendations
 - 💡 Payday Promotions: Launch timed specials around pay periods.
