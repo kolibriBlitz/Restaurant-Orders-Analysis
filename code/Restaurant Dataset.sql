@@ -1,3 +1,7 @@
+--
+-- Dataset provided by Maven Analytics from free SQL learning path
+--
+
 DROP SCHEMA IF EXISTS restaurant_db;
 CREATE SCHEMA restaurant_db;
 USE restaurant_db;
