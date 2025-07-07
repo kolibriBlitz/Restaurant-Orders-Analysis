@@ -9,7 +9,8 @@ The first set of questions in the Maven Analytics guided project.
 |Command|Purpose|
 |:---|:---:|
 |`SELECT`|Get specific columns|
-|`WHERE`|Filter information|
+|`WHERE`/`HAVING`|Filter information|
+|`LIKE`|Comparison Operator|
 |`GROUP BY`|Aggregation|
 |`ORDER BY`|Sorting|
 
