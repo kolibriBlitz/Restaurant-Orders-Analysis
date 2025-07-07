@@ -12,21 +12,25 @@
 
 ## Skills Practiced
 | Command     | Purpose                                |
-|-------------|----------------------------------------|
-| `SELECT`    | [e.g., Retrieve specific columns]       |
-| `WHERE`     | [e.g., Filter rows based on conditions] |
-| `GROUP BY`  | [e.g., Aggregate data for analysis]     |
-| `ORDER BY`  | [e.g., Sort data by values]             |
-| `JOIN`      | [Optional – remove if not used]         |
+|:-----------:|----------------------------------------|
+| `SELECT`    | Retrieve specific columns      |
+| `JOIN...ON`      | Combine data from two tables based on a common field        |
+| `WHERE`     | Filter rows based on conditions |
+|`<>`| Comparison operator|
+|`COUNT`| Count number of records |
+|`SUM`| Add values of a column |
+|`AVG`| Find the average value of a column|
+|`ROUND`|Round a value to a specific number of decimal places|
+| `GROUP BY`  | Aggregate data for analysis    |
+| `ORDER BY`  | Sort data            |
+|`LIMIT`| Limit the amount of rows returned|
 
 ## Key Observations
-- [Insert interesting findings or things you noticed while writing queries]
-- [E.g., Edamame appears frequently as a solo item]
-- [E.g., Italian dishes have higher average price than others]
+- Sales are concentrated every two weeks, possibly indicating a relationship to payday.
+- Edamame is popular but inexpensive. It often sells alone, indicating potential for add-on selling.
+- No bump in sales around Valentine's Day holiday...unexpected. MISSED OPPORTUNITY!
 
 ## Notes or Challenges
-- [Optional section – mention any errors, unexpected results, or lessons learned]
-- [E.g., Needed to use `DISTINCT` to get unique counts]
-- [E.g., Originally forgot to exclude NULL item_ids]
+- I researched date and time formatting in the MySQL documentation. This was really cool and useful! It led me to my deeper dive into [time analysis](../code/Time_Analysis.sql).
 
 > 📝 See [`Mels_Analysis.sql`](../code/Mels_Analysis.sql) for the full query set
