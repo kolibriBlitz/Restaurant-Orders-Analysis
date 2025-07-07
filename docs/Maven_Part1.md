@@ -20,13 +20,11 @@ The first set of questions in the Maven Analytics guided project.
 |`ORDER BY`|Sorting|
 
 ## Key Observations
-- [Insert interesting findings or things you noticed while writing queries]
-- [E.g., Edamame appears frequently as a solo item]
-- [E.g., Italian dishes have higher average price than others]
+- American category has lowest average price but also least amount of items so it's more likely that Mexican is least expensive category when accounting for item weight
+- Italian is most expensive category on average
 
 ## Notes or Challenges
-- [Optional section – mention any errors, unexpected results, or lessons learned]
-- [E.g., Needed to use `DISTINCT` to get unique counts]
-- [E.g., Originally forgot to exclude NULL item_ids]
+- columns in `SELECT` statment need to be aggregated uf `GROUP BY` is used
+- `LIKE` or `=` can be used for text comparisons
 
 > 📝 See [`Maven_Part1.sql`](../code/Maven_Part1.sql) for the full query set
