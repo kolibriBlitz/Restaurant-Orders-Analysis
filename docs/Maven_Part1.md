@@ -12,7 +12,7 @@ The first set of questions in the Maven Analytics guided project.
 
 ## Skills
 |Command|Purpose|
-|:---|:---:|
+|:---:|---|
 |`SELECT`|Retrieve specific columns|
 |`WHERE`/`HAVING`|Filter rows based on conditions|
 |`LIKE`|Comparison Operator|
