@@ -1,9 +1,11 @@
-# Exercise 3 – [Short Title or Theme]
+# Exercise 3 – Analyze customer behavior
+Your final objective is to , , and 
 
 ## Goals
-- [List specific learning or project goals for this exercise]
-- [E.g., explore the menu_items table, practice joins, analyze patterns]
-
+- Combine the items and orders tables
+- Find the least and most ordered categories
+- dive into the details of the highest spend orders.
+  
 ## Skills Practiced
 | Command     | Purpose                                |
 |-------------|----------------------------------------|
