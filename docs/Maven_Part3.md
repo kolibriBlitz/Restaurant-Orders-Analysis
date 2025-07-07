@@ -9,7 +9,7 @@
 | Command     | Purpose                                |
 |:-----------:|----------------------------------------|
 | `SELECT`    | Retrieve specific columns      |
-| `JOIN`      | Combine data from two tables based on a common field        |
+| `JOIN...ON`      | Combine data from two tables based on a common field        |
 | `WHERE`     | Filter rows based on conditions |
 |`IN`| Comparison operator|
 |`COUNT`| Count number of records |
