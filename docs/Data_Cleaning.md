@@ -1,4 +1,4 @@
-# Data Cleaning Practice – Garbage In, Garbage Out
+# Data Cleaning – Garbage In, Garbage Out
 
 ## Goals
 - Practice looking for data anomalies, e.g., NULL values, typos, outliers, etc.
@@ -8,11 +8,11 @@
 ## Skills Practiced
 | Command     | Purpose                                |
 |-------------|----------------------------------------|
-| `SELECT`    | [e.g., Retrieve specific columns]       |
-| `WHERE`     | [e.g., Filter rows based on conditions] |
-| `IS NULL`  | [e.g., Aggregate data for analysis]     |
-| `BETWEEN`  | [e.g., Sort data by values]             |
-| `UPDATE`      | [Optional – remove if not used]         |
+| `SELECT`    | Retrieve specific columns       |
+| `WHERE`     | Filter rows based on conditions |
+| `IS NULL`  | Check for values equal to NULL    |
+| `BETWEEN`  | Comparison operator            |
+| `UPDATE`      | Update data in a table         |
 
 ## Key Observations
 - All NULL items were standalone single item orders.
