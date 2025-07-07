@@ -1,9 +1,14 @@
-# Exercise 1
+# Exercise 1 - Explore the items table
 The first set of questions in the Maven Analytics guided project.
+
 
 ## Goals
 - Explore the data.
 - Practice simply query expressions.
+- Get a better understanding of the items table by finding:
+    - the number of rows in the table,
+    - the least and most expensive items, and
+    - the item prices within each category.
 
 ## Skills
 |Command|Purpose|
