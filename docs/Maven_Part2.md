@@ -8,7 +8,7 @@
 
 ## Skills Practiced
 | Command     | Purpose                                |
-|:---|:---:|
+|:---:|:---|
 | `SELECT`    | Retrieve specific columns       |
 | `WHERE`/`HAVING`     | Filter rows based on conditions |
 | `GROUP BY`  | Aggregate data for analysis   |
