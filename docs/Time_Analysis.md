@@ -7,13 +7,23 @@
 - Practice more complex querying skills.
 
 ## Skills Practiced
-| Command     | Purpose                                |
-|-------------|----------------------------------------|
-| `SELECT`    | [e.g., Retrieve specific columns]       |
-| `WHERE`     | [e.g., Filter rows based on conditions] |
-| `GROUP BY`  | [e.g., Aggregate data for analysis]     |
-| `ORDER BY`  | [e.g., Sort data by values]             |
-| `JOIN`      | [Optional – remove if not used]         |
+|  Command     | Purpose                                |
+|:-----------:|----------------------------------------|
+| `SELECT`    | Retrieve specific columns      |
+| `JOIN...ON`      | Combine data from two tables based on a common field        |
+|`CASE`...`WHEN`...`THEN`...`END`|Conditional expression to return values based on logical conditions|
+| `WHERE`     | Filter rows based on conditions |
+|`<>`| Comparison operator|
+|`COUNT`| Count number of records |
+|`SUM`| Add values of a column |
+|`AVG`| Find the average value of a column|
+|`ROUND`|Round a value to a specific number of decimal places|
+| `GROUP BY`  | Aggregate data for analysis    |
+| `ORDER BY`  | Sort data            |
+|`LIMIT`| Limit the amount of rows returned|
+|`WITH`|A common table expression (CTE) of a subquery result that can be referred to by a query statement|
+|`RANK`...`OVER`| Return the rank of the current row over its partition|
+|`PARTITION BY`| Divide the query rows into groups|
 
 ## Key Observations
 - Sales peak on Fridays and Mondays, followed closely by Saturday and Sunday.
