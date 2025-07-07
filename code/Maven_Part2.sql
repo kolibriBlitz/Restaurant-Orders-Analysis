@@ -8,10 +8,11 @@ from order_details;
 select max(order_id) as total_orders, /*count(distinct(order_id)) as orders,*/ count(order_details_id) as total_items_ordered
 from order_details;
 
-#Which orders had the most number of items?
+#Which orders had the most number of items? most items 14
 select order_id, count(*) as num_items
 from order_details
 group by order_id
+/*having num_items = 14*/
 order by num_items desc;	
 
 #How many orders had more than 12 items? 23
