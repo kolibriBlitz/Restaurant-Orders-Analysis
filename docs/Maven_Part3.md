@@ -7,7 +7,7 @@
   
 ## Skills Practiced
 | Command     | Purpose                                |
-|-------------|----------------------------------------|
+|:-----------:|----------------------------------------|
 | `SELECT`    | Retrieve specific columns      |
 | `JOIN`      | Combine data from two tables based on a common field        |
 | `WHERE`     | Filter rows based on conditions |
