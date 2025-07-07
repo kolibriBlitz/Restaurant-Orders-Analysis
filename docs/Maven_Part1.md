@@ -13,11 +13,12 @@ The first set of questions in the Maven Analytics guided project.
 ## Skills
 |Command|Purpose|
 |:---|:---:|
-|`SELECT`|Get specific columns|
-|`WHERE`/`HAVING`|Filter information|
+|`SELECT`|Retrieve specific columns|
+|`WHERE`/`HAVING`|Filter rows based on conditions|
 |`LIKE`|Comparison Operator|
-|`GROUP BY`|Aggregation|
-|`ORDER BY`|Sorting|
+| `AVG` | Calculate average value of a column |
+|`GROUP BY`|Aggregate data for analysis|
+|`ORDER BY`|Sort data|
 
 ## Key Observations
 - American category has lowest average price but also least amount of items so it's more likely that Mexican is least expensive category when accounting for item weight
