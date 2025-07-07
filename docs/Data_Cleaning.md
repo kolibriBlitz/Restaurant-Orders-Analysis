@@ -13,6 +13,7 @@
 | `IS NULL`  | Check for values equal to NULL    |
 | `BETWEEN`  | Comparison operator            |
 |`NOT`/`<>`|Comparison operator|
+|`AND`/`OR`|Conditional operator|
 |`GROUP BY`| Aggregate data for analysis|
 |`ORDER BY`| Sort data|
 | `UPDATE`      | Update data in a table         |
