@@ -1,8 +1,14 @@
 # Exercise 4 – Mel's Brain Takes Over
 
 ## Goals
-- [List specific learning or project goals for this exercise]
-- [E.g., explore the menu_items table, practice joins, analyze patterns]
+- Deep dive into order details.
+  - Using the last exercise as a starting point, why limit ourselves to the highest sales? Let's look at the lowest sales for any patterns. 
+- Dive into the time dimension.
+  - Are there patterns in the dates or times when sales are high?
+- Dive into the menu.
+  - What are the most/least popular categories?
+  - What are the most/least popular dishes?
+  - What are the prices of these items?
 
 ## Skills Practiced
 | Command     | Purpose                                |
