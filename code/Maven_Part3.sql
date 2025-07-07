@@ -17,7 +17,7 @@ order by order_total desc
 limit 5;
 
 #View the details of the highest spend order. Which specific items were purchased?
-select menu.category as cuisine, sum(menu.price) as total_spend, menu.item_name as items
+select menu.category as cuisine, menu.item_name as items, count(menu.item_name) as num_item, sum(menu.price) as total_spend
  from order_details as ord
 join menu_items as menu on menu.menu_item_id = ord.item_id
 where ord.order_id = 440
@@ -31,4 +31,6 @@ join menu_items as menu on menu.menu_item_id = ord.item_id
 where ord.order_id in (330,440,1957,2075,2675)
 group by ord.order_id, cuisine
 order by ord.order_id, total_spend desc; 
+
+
   
