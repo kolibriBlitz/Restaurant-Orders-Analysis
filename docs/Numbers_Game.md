@@ -22,7 +22,8 @@
 
 ## Key Observations
 - Some menu items, like Korean Beef Bowl and Spaghetti & Meatballs, contribute more to revenue than their order counts suggest.
-  - Price of these items is likely on the high end...we can go back to previous queries to check.
+  - These items likely have higher prices — worth confirming with earlier price queries.
+    - Do they have similar price points? Where does their price rank in their category?
   - These items might pair or bundle well in meals.
 - Edamame is the top underperformer and biggest untapped opportunity.
   - It makes up 5.1% of orders but only 1.9% of sales - a –3.1% revenue gap.
@@ -31,7 +32,7 @@
 
 ## Notes or Challenges
 - Learned that `CROSS JOIN` is appropriate when merging a grouped dataset with a one-row dataset without a common column.
-  - Learned that `CROSS JOIN` won't work if aggregation commands are used afterward (or it didn't when I tried...).
+  - Learned that `CROSS JOIN` won't work if aggregation commands are used afterward (...at least it didn't when I tried it).
 - Explored query readability by replacing a join on non-matching structures with inline subqueries and functions.
 - Realized that performance tradeoffs may be worth it for clarity—especially in deliverables meant for stakeholders or collaborators.
   - Thinking ahead to larger, more complex datasets; where to draw the line between speed and clarity.
