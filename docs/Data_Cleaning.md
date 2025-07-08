@@ -1,4 +1,4 @@
-# Data Cleaning – Garbage In, Garbage Out
+# Exercise 6: Data Cleaning – Garbage In, Garbage Out
 
 ## Goals
 - Practice looking for data anomalies, e.g., NULL values, typos, outliers, etc.
