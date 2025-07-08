@@ -6,8 +6,7 @@
 
 ## Skills Practiced
 | Command     | Purpose                                |
-|---|---|
-|:-----------:|:---------------------------------------|
+|:-----------:|---------------------------------------|
 | `SELECT`    | [e.g., Retrieve specific columns]       |
 | `WHERE`     | [e.g., Filter rows based on conditions] |
 | `GROUP BY`  | [e.g., Aggregate data for analysis]     |
