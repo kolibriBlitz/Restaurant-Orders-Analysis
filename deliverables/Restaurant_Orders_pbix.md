@@ -17,3 +17,5 @@
 - Power BI's arbitrary formatting limitations are ... ... annoying, let's go with that.
 - The smallest details cause the biggest problems.
 - All the plug-ins I had to install to be able to connect to my local server 😫.
+
+> See the full [Restaurant_Orders.pbix](../deliverables/Restaurant_Orders.pbix) 
