@@ -1,4 +1,4 @@
-# Exercise 3: Analyze customer behavior
+# Exercise 3: Analyze Customer Behavior
 
 ## Goals
 - Combine the items and orders tables.
