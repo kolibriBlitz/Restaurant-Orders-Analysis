@@ -1,9 +1,9 @@
 # Restaurant Orders
 
 ## Navigation
-- [SQL Queries](/code): Just the code and nothing but the code
-- [Documentation](/docs): Translation of the code to plain English
-- [Deliverables](/deliverables): Examples of project deliverables including their documentation
+- [SQL Queries](code): Just the code and nothing but the code
+- [Documentation](docs): Translation of the code to plain English
+- [Deliverables](deliverables): Examples of project deliverables including their documentation
 
 ### Project Goals
 - Practice SQL skills through hands-on, iterative querying.
