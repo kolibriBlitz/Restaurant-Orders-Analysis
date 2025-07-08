@@ -18,4 +18,4 @@
 - The smallest details cause the biggest problems.
 - All the plug-ins I had to install to be able to connect to my local server 😫.
 
-> View the full presentation [visuals](../deliverables/Restaurant_Orders.pdf) 
+> View the full [presentation visuals](../deliverables/Restaurant_Orders.pdf).
