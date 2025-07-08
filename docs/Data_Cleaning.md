@@ -25,7 +25,6 @@
 - This step was initially skipped because I started this project in a guided setting.
 - I checked for NULL values first because they are most obvious. I checked typos next.
 - I needed to research the proper syntax for updating a table. Overall SQL commands are intuitive and logical, but if your brain isn't acting that way then you're screwed.
-- I have been unsuccessful at removing the null row from menu_items so far.
 - *It never ends!* I noticed that I mispelled "Unknown" in the `item_name` field when I coded my new row. I went back and updated it. 😎
 
 > 📝 See [`Data_Cleaning.sql`](../code/Data_Cleaning.sql) for the full query set
