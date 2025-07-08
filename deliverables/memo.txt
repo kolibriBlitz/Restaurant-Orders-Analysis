@@ -5,14 +5,17 @@ Subject: Missing item_ids in Q1 order data
 
 Hello Avery,
 
-While reviewing the Q1 order data, I found 137 orders missing a menu_item_ID. I've attached a list of those records for reference.
+While reviewing the Q1 order data, I found 137 orders missing an item_ID. I've attached a list of those records for reference.
 
-Could find out what item(s) were sold in these orders, please? I'll need the item id, item name, category and price.
+Could find out what item(s) were sold in these orders? I'll need the item id, item name, category and price for each.
 
-Can you send me the data as a .CSV file by the end of the week, please?
+Please send me the data as a .CSV file by the end of the week.
 
 I appreciate your help!
 
 Thanks,
 
 Melisande Fritzsche
+
+
+Attachment: orders_missing_item_id.csv
