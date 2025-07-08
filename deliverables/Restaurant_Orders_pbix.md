@@ -12,10 +12,13 @@
 - Wrote DAX code for calculated columns.
 - Created a custom sort table.
 - Prepared visuals in Power BI.
+- Exporting Power BI visualizations for:
+  - stakeholders who may not have access to Power BI desktop
+  - stakeholders to have as a portable reference
 
 ## Notes and Challenges
 - Power BI's arbitrary formatting limitations are ... ... annoying, let's go with that.
 - The smallest details cause the biggest problems.
-- All the plug-ins I had to install to be able to connect to my local server 😫.
+- Needed to install multiple plug-ins to connect to my local server 😫.
 
 > View the full [presentation visuals](../deliverables/Restaurant_Orders.pdf).
