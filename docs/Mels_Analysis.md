@@ -1,4 +1,4 @@
-# Exercise 4 – Mel's Brain Takes Over
+# Exercise 4: Mel's Brain Takes Over
 
 ## Goals
 - Deep dive into order details.
