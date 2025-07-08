@@ -36,5 +36,7 @@
 - Explored query readability by replacing a join on non-matching structures with inline subqueries and functions.
 - Realized that performance tradeoffs may be worth it for clarity—especially in deliverables meant for stakeholders or collaborators.
   - Thinking ahead to larger, more complex datasets; where to draw the line between speed and clarity.
+- Follow-up idea: Use a `DENSE_RANK()` or `RANK()` window function to compare dish prices within categories.
+  - Follow-up follow-up idea: Add to the ranked dishes their average order count.
 
 > 📝 See [`Numbers_Game.sql`](../code/Numbers_Game.sql) for the full query set
