@@ -1,4 +1,4 @@
-# Exercise 1: Explore the items table
+# Exercise 1: Explore the Items Table
 The first set of questions in the Maven Analytics guided project.
 
 
