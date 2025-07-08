@@ -15,7 +15,7 @@
 |`ROUND`|Format percentages to 1 decimal place|
 |`GROUP BY`|	Aggregate data|
 |`ORDER BY`|	Sort data|
-|`WITH`|A common table expression (CTE) of a subquery result that can be referred to by a query statement|
+|`WITH`|Define reusable subqueries using common table expressions (CTEs) |
 |`CROSS JOIN`|	Combine each row with a one-row table for easy ratio math|
 |`CREATE`...`FUNCTION`|	Define reusable routines for cleaner and portable queries|
 |`INT` / `DECIMAL`|	Specify data types for return values in functions|
