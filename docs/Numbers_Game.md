@@ -7,12 +7,15 @@
 ## Skills Practiced
 | Command     | Purpose                                |
 |:-----------:|---------------------------------------|
-| `SELECT`    | [e.g., Retrieve specific columns]       |
-| `WHERE`     | [e.g., Filter rows based on conditions] |
-| `GROUP BY`  | [e.g., Aggregate data for analysis]     |
-| `ORDER BY`  | [e.g., Sort data by values]             |
-| `CROSS JOIN`      | [Optional – remove if not used]         |
-|`CREATE`...`FUNCTION`||
+| `SELECT`    | Retrieve specific columns      |
+| `SUM`   | [e.g., Filter rows based on conditions] |
+|`COUNT`||
+|`ROUND`||
+| `GROUP BY`  | e.g., Aggregate data for analysis    |
+| `ORDER BY`  | e.g., Sort data by values           |
+| `CROSS JOIN`      |         |
+|`CREATE`...`FUNCTION`|Create a stored routine to return a query value|
+|`INT`/`DECIMAL`|Data types|
 
 ## Key Observations
 - [Insert interesting findings or things you noticed while writing queries]
