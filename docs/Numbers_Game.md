@@ -1,21 +1,24 @@
 # Exercise 7 – Percentages Are Where It's At
 
 ## Goals
-- [List specific learning or project goals for this exercise]
-- [E.g., explore the menu_items table, practice joins, analyze patterns]
+- Analyze how individual menu items contribute to total orders and revenue.
+- Investigate whether popularity (orders) aligns with revenue generation (sales).
+- Continue practicing with common table expressions (CTEs).
+- Explore using `CROSS JOIN` and user-defined functions to simplify query structure and improve readability.
 
 ## Skills Practiced
 | Command     | Purpose                                |
 |:-----------:|---------------------------------------|
-| `SELECT`    | Retrieve specific columns      |
-| `SUM`   | [e.g., Filter rows based on conditions] |
-|`COUNT`||
-|`ROUND`||
-| `GROUP BY`  | e.g., Aggregate data for analysis    |
-| `ORDER BY`  | e.g., Sort data by values           |
-| `CROSS JOIN`      |         |
-|`CREATE`...`FUNCTION`|Create a stored routine to return a query value|
-|`INT`/`DECIMAL`|Data types|
+| `SELECT`|	Retrieve specific columns|
+|`COUNT` 	|Aggregate order counts|
+|`SUM`|Add values in a column|
+|`ROUND`|Format percentages to 1 decimal place|
+|`GROUP BY`|	Aggregate data at the item or category level|
+|`ORDER BY`|	Sort data to surface top and bottom performers|
+|`WITH`||
+|`CROSS JOIN`|	Combine each row with a one-row table for easy ratio math|
+|`CREATE`...`FUNCTION`|	Define reusable routines for cleaner and portable queries|
+|`INT` / `DECIMAL`|	Specify data types for return values in functions|
 
 ## Key Observations
 - [Insert interesting findings or things you noticed while writing queries]
