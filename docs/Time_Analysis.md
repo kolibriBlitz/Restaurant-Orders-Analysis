@@ -21,7 +21,7 @@
 | `GROUP BY`  | Aggregate data for analysis    |
 | `ORDER BY`  | Sort data            |
 |`LIMIT`| Limit the amount of rows returned|
-|`WITH`|A common table expression (CTE) of a subquery result that can be referred to by a query statement|
+|`WITH`|Define reusable subqueries using common table expressions (CTEs) |
 |`RANK`...`OVER`| Return the rank of the current row over its partition|
 |`PARTITION BY`| Divide the query rows into groups|
 
