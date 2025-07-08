@@ -1,10 +1,17 @@
-Hello Data Dude,
+From: melisande.fritzsche@email.com
+To: Avery.Opal@email.com
+Subject: Missing item_ids in Q1 order data
 
-In reviewing the order data, I found several orders missing an item ID. 
 
-I've attached a list of those orders for your records.
+Hello Avery,
 
-Please find out what item(s) were sold. Can you deliver a list of the items with item ID, item name, category and price as a .CSV to me by the end of the week please?
+While reviewing the Q1 order data, I found 137 orders missing a menu_item_ID. I've attached a list of those records for reference.
+
+Could find out what item(s) were sold in these orders, please? I'll need the item id, item name, category and price.
+
+Can you send me the data as a .CSV file by the end of the week, please?
+
+I appreciate your help!
 
 Thanks,
 
