@@ -1,4 +1,4 @@
-# Exercise 2 – Explore the orders table
+# Exercise 2: Explore the orders table
 
 ## Goals
 - Better understand the orders table by finding:
