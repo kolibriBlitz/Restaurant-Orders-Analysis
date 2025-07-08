@@ -1,5 +1,6 @@
 # Dealing With Discrepancies
-While cleaning the restaurant data, I came across 137 orders without a menu_item_id. I checked for the existence of consistent or reliable patterns to use for value imputation, but there weren't any. <br>
-I want to address this now before it grows into a larger problem. <br>
-I will write a memo/short email to the data steward explaining the situation and requesting complete data. I don't know them very well yet.<br>
-Expected result: I receive the data I requested by the deadline I set.
+
+While cleaning the restaurant data, I discovered 137 orders without a menu_item_id. I checked for consistent or reliable patterns to impute values but didn't find any. <br>
+To prevent this from becoming a larger issue in future reports, I documented the missing data and contacted the data steward. <br>
+I requested a .CSV file containing the correct item ID, item name, category, and price. <br>
+Expected result: Receipt of complete data by the deadline I provided.
