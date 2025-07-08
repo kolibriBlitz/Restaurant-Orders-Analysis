@@ -1,4 +1,4 @@
-# Time Analysis – We know *what* they're eating, but what about ***when***
+# Exercise 5 – We know *what* they're eating, but what about ***when***
 
 ## Goals
 - Deep dive into time trends discovered in [Mel's Analysis](../code/Mels_Analysis.sql).
