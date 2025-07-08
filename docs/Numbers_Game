@@ -1,4 +1,4 @@
-# Exercise 6 – Percentages Are Where It's At
+# Exercise 7 – Percentages Are Where It's At
 
 ## Goals
 - [List specific learning or project goals for this exercise]
@@ -6,12 +6,14 @@
 
 ## Skills Practiced
 | Command     | Purpose                                |
-|-------------|----------------------------------------|
+|---|---|
+|:-----------:|:---------------------------------------|
 | `SELECT`    | [e.g., Retrieve specific columns]       |
 | `WHERE`     | [e.g., Filter rows based on conditions] |
 | `GROUP BY`  | [e.g., Aggregate data for analysis]     |
 | `ORDER BY`  | [e.g., Sort data by values]             |
 | `CROSS JOIN`      | [Optional – remove if not used]         |
+|`CREATE`...`FUNCTION`||
 
 ## Key Observations
 - [Insert interesting findings or things you noticed while writing queries]
